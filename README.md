@@ -49,20 +49,7 @@ To get a local copy up and running, follow these simple steps:
    npm run dev
    
 5. **Project Structure**
-   3DPortfolio/
-├── public/           # Static files
-├── src/
-│   ├── assets/       # 3D models, textures, etc.
-│   ├── components/   # React components
-│   ├── pages/        # Application pages
-│   ├── styles/       # CSS and styling
-│   ├── App.tsx       # Main application component
-│   ├── index.tsx     # Application entry point
-│   └── ...           # Other files and directories
-├── .gitignore        # Git ignore file
-├── package.json      # Project configuration and dependencies
-├── README.md         # Project documentation
-└── vite.config.ts    # Vite configuration
+![Screenshot 2024-06-08 at 4 11 47 PM](https://github.com/ROUSE-prog/3DPortfolio/assets/52251052/8ee9bac5-658c-4d5e-a198-aec81bb3a808)
 
 
 
