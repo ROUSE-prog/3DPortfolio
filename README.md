@@ -1,4 +1,5 @@
 # 3D Portfolio
+![Screenshot 2024-06-08 at 2 41 27 PM](https://github.com/ROUSE-prog/3DPortfolio/assets/52251052/3d604a2c-dfdf-4612-8645-c1ce77d1de86)
 
 Welcome to my 3D Portfolio repository! This project showcases my skills and projects in 3D development, utilizing modern web technologies.
 
